@@ -1,6 +1,6 @@
 """
 File Sharing System
-Developed by: Aviral Bhadouria
+Developed by: Anshul Chandra
 """
 
 from flask import Flask, request, send_from_directory, render_template, redirect, url_for
